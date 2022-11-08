@@ -125,5 +125,10 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+#Personal
+5foldcv/
+remote/
+test.py
+
 # Pyre type checker
 .pyre/
